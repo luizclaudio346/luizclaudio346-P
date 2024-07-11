@@ -8,6 +8,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizclaudio346/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfilho2017@gmail.com)
 
-![luizclaudio346-P GitHub stats](https://github-readme-stats.vercel.app/api?username=luizclaudio346-P&show_icons=true&theme=dark)
+![luizclaudio346 GitHub stats](https://github-readme-stats.vercel.app/api?username=luizclaudio346&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizclaudio346-P&layout=compact&langs_count=7&theme=dark)](https://github.com/luizclaudio346-P/github-readme-stats)
 
